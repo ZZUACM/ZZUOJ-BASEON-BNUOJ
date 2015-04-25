@@ -1,15 +1,10 @@
 <?php
-$pagetitle="2013年暑期训练积分榜";
+$pagetitle="2015年暑期训练积分榜";
 include_once("header.php");
 
 $contests=array(1892,2007,2013,1895,1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919);
 
 $team=array();
-$team[]=array("latte","李思源 张伯威 赵力","team100   北京师范大学");
-$team[]=array("crazier","吴浪 陈辉 董自鸣","team099   北京师范大学");
-$team[]=array("cappu","周奕洋 刘芳 盛乔一","team097   北京师范大学");
-$team[]=array("idonotknow","王梦非 郑培凯 陈高翔","team091   北京师范大学");
-$team[]=array("xiaohai","李奕 李安然 马凌霄","team095   北京师范大学");
 $team[]=array("hwd","何伟强 吴雷 段兰君","team093   北京师范大学");
 
 for ($i=0;$i<6;$i++) $team[$i]["punish"]=0.0;
