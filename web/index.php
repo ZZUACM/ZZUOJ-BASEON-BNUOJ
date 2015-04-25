@@ -4,7 +4,7 @@ include_once("functions/sidebars.php");
 include_once("functions/contests.php");
 ?>
         <div class="hero-unit">
-          <h1>Welcome to ZZUOJ base on<a href="http://www.bnuoj.com" target="_blank">BNUOJ 3.0</a></h1>
+          <h1>Welcome to ZZUOJ base on <span style="font-size:30px"><a href="http://www.bnuoj.com" target="_blank">BNUOJ 3.0!</a></span></h3></h1>
           <p>
             IE 7+, Opera 11+, Safari 5+, Firefox 5+ and Chrome 14+ are <span class="badge badge-important"><b>REQUIRED</b></span><br/>
             Please download one of them above :) <br/>
