@@ -5,11 +5,11 @@ include_once("functions/users.php");
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="BNU Online Judge, A simple, full-featured Online Judge." />
-    <meta name="keywords" content="Online Judge, BNU, OJ, BNUOJ, BOJ, Virtual Judge, Replay Contest, Problem Category" />
+    <meta name="description" content="ZZU Online Judge, A simple, full-featured Online Judge." />
+    <meta name="keywords" content="Online Judge, ZZU, OJ, ZZUOJ, BOJ, Virtual Judge, Replay Contest, Problem Category" />
     <meta name="author" content="51isoft">
     <link rel="shortcut icon" href="ico/bnuoj.ico" />
-    <title><?= $pagetitle==""?"BNU Online Judge":$pagetitle ?></title>
+    <title><?= $pagetitle==""?"ZZU Online Judge":$pagetitle ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Le styles -->
@@ -72,7 +72,7 @@ include_once("functions/users.php");
                 <ul class="dropdown-menu">
                   <li><a href="news.php">News</a></li>
                   <li><a href="teaminfo.php">Our Team</a></li>
-                  <li><a href="http://www.oiegg.com/forumdisplay.php?fid=407" target="_blank">BBS</a></li>
+                  <li><a href="http://weibo.com/zzuacm" target="_blank">weibo</a></li>
                   <li class="divider"></li>
                   <li><a href="recent_contest.php">Recent Contests</a></li>
                   <!--<li><a href="training_stat.php">Training Stats</a></li>-->
