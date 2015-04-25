@@ -1,0 +1,32 @@
+2015-04-24 21:12:35 Main[4406]: Successfully connected.
+2015-04-24 21:12:35 Main[4406]: Runid: 1 Type: 2
+2015-04-24 21:12:35 Main[4406]: Sending results/1
+2015-04-24 21:12:35 Main[4406]: Sent.
+2015-04-24 21:14:40 Main[4406]: Runid: 1 Type: 2
+2015-04-24 21:14:40 Main[4406]: Sending results/1
+2015-04-24 21:14:40 Main[4406]: Sent.
+2015-04-24 21:14:52 Main[4406]: Runid: 1 Type: 2
+2015-04-24 21:14:52 Main[4406]: Sending results/1
+2015-04-24 21:14:52 Main[4406]: Sent.
+2015-04-24 21:15:24 Main[4406]: Runid: 1 Type: 2
+2015-04-24 21:15:24 Main[4406]: Checking testdata/1/1
+2015-04-24 21:15:24 Main[4406]: Do testdata/1/1
+2015-04-24 21:15:24 Main[4406]: Compiling tmpfile/lnmjrqxgct.cpp
+2015-04-24 21:15:24 Main[4406]: Compile Child Process: 4525
+2015-04-24 21:15:24 Main[4406]: Compile time limit: 10
+2015-04-24 21:15:24 Main[4406]: Compiling Used: 0
+2015-04-24 21:15:24 Compiler[4525]: Compile Command: g++ tmpfile/lnmjrqxgct.cpp -o tmpfile/lnmjrqxgct.out -O -fno-asm -Wall -lm 2>tmpfile/dryivbtnqf.txt
+2015-04-24 21:15:25 Main[4406]: Compiling Used: 1
+2015-04-24 21:15:25 Main[4406]: Compiled
+2015-04-24 21:15:25 Main[4406]: Watch Child Process: 4543
+2015-04-24 21:15:25 Sandbox[4543]: Program Child Process: 4544
+2015-04-24 21:15:25 Sandbox[4543]: Running program
+2015-04-24 21:15:25 Runner[4544]: Time limit for this program is 1
+2015-04-24 21:15:25 Sandbox[4543]: Used time: 1
+2015-04-24 21:15:25 Sandbox[4543]: Used Memory: 1118208
+2015-04-24 21:15:25 Sandbox[4543]: Run status: 0
+2015-04-24 21:15:25 Main[4406]: Running Used: 0
+2015-04-24 21:15:25 Main[4406]: Runned.
+2015-04-24 21:15:25 Main[4406]: Comparing tmpfile/qimkcqlxeg and tmpfile/xhxceonkub
+2015-04-24 21:15:25 Main[4406]: Sending results/1
+2015-04-24 21:15:25 Main[4406]: Sent.

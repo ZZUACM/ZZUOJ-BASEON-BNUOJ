@@ -1,0 +1,30 @@
+2015-04-24 21:06:12 Main[4174]: Exception caught: Cannot connect to dispatcher
+2015-04-24 21:06:12 Main[4174]: Network Error, trying to reconnect after 5 seconds
+2015-04-24 21:12:35 Main[832]: Received a connection from 127.0.0.1:51172
+2015-04-24 21:12:35 Main[5120]: Judger connected, OJ: BNU
+2015-04-24 21:12:35 Fetcher[432]: Dispatched runid: 1 for BNU to judge
+2015-04-24 21:12:35 BNU[2416]: Load infos of Runid: 1
+2015-04-24 21:12:35 BNU[2416]: Sending to judger...
+2015-04-24 21:12:35 BNU[2416]: Got result back from judger.
+2015-04-24 21:12:35 BNU[2416]: Updating statistics, runid: 1, user: admin, result: Judge Error (No Data), pid: 1
+2015-04-24 21:14:40 Main[832]: Received a connection from 127.0.0.1:61156
+2015-04-24 21:14:40 Main[5120]: Received a rejudge request, pid: 1, cid: 0
+2015-04-24 21:14:40 Fetcher[432]: Dispatched runid: 1 for BNU to judge
+2015-04-24 21:14:40 BNU[2416]: Load infos of Runid: 1
+2015-04-24 21:14:40 BNU[2416]: Sending to judger...
+2015-04-24 21:14:40 BNU[2416]: Got result back from judger.
+2015-04-24 21:14:40 BNU[2416]: Updating statistics, runid: 1, user: admin, result: Judge Error (No Data), pid: 1
+2015-04-24 21:14:52 Main[832]: Received a connection from 127.0.0.1:64484
+2015-04-24 21:14:52 Main[5120]: Received an error rejudge request, runid: 1, oj: BNU
+2015-04-24 21:14:52 Fetcher[432]: Dispatched runid: 1 for BNU to judge
+2015-04-24 21:14:52 BNU[2416]: Load infos of Runid: 1
+2015-04-24 21:14:52 BNU[2416]: Sending to judger...
+2015-04-24 21:14:52 BNU[2416]: Got result back from judger.
+2015-04-24 21:14:52 BNU[2416]: Updating statistics, runid: 1, user: admin, result: Judge Error (No Data), pid: 1
+2015-04-24 21:15:24 Main[832]: Received a connection from 127.0.0.1:4325
+2015-04-24 21:15:24 Main[5120]: Received an error rejudge request, runid: 1, oj: BNU
+2015-04-24 21:15:24 Fetcher[432]: Dispatched runid: 1 for BNU to judge
+2015-04-24 21:15:24 BNU[2416]: Load infos of Runid: 1
+2015-04-24 21:15:24 BNU[2416]: Sending to judger...
+2015-04-24 21:15:25 BNU[2416]: Got result back from judger.
+2015-04-24 21:15:25 BNU[2416]: Updating statistics, runid: 1, user: admin, result: Accepted, pid: 1

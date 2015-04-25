@@ -1,0 +1,18 @@
+相关问题：
+一，ojinfo表里边，supportlang字段的格式是类似“1,2,..,15"的。其中，
+1->GNU C++
+2->GNU C
+3->Oracle Java
+4->Free Pascal
+5->Python
+6->C# (Mono)
+7->Fortran
+8->Perl
+9->Ruby
+10->Ada
+11->SML
+12->Visual C++
+13->Visual C
+14->CLang
+15->CLang++
+

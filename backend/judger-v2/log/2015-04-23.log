@@ -1,0 +1,5 @@
+2015-04-23 22:05:01 Main[3509]: Exception caught: Cannot connect to dispatcher
+2015-04-23 22:05:01 Main[3509]: Network Error, trying to reconnect after 5 seconds
+2015-04-23 22:05:06 Main[3509]: Exception caught: Cannot connect to dispatcher
+2015-04-23 22:05:06 Main[3509]: Network Error, trying to reconnect after 5 seconds
+2015-04-23 22:12:25 Main[3684]: Successfully connected.

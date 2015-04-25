@@ -1,0 +1,754 @@
+ACdreamJudger.o：在函数‘ACdreamJudger::login()’中：
+ACdreamJudger.cpp:(.text+0x2ab)：对‘curl_easy_setopt’未定义的引用
+ACdreamJudger.cpp:(.text+0x3e2)：对‘curl_easy_setopt’未定义的引用
+ACdreamJudger.o：在函数‘ACdreamJudger::submit(Bott*)’中：
+ACdreamJudger.cpp:(.text+0x6a8)：对‘curl_easy_setopt’未定义的引用
+ACdreamJudger.cpp:(.text+0x889)：对‘curl_easy_setopt’未定义的引用
+ACdreamJudger.o：在函数‘ACdreamJudger::getStatus(Bott*)’中：
+ACdreamJudger.cpp:(.text+0xda2)：对‘curl_easy_setopt’未定义的引用
+ACdreamJudger.cpp:(.text+0xf13)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ACdreamJudger.cpp:(.text+0xf49)：对‘re2::RE2::PartialMatch’未定义的引用
+ACdreamJudger.cpp:(.text+0xf62)：对‘re2::RE2::~RE2()’未定义的引用
+ACdreamJudger.cpp:(.text+0x1025)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ACdreamJudger.cpp:(.text+0x1065)：对‘re2::RE2::PartialMatch’未定义的引用
+ACdreamJudger.cpp:(.text+0x107e)：对‘re2::RE2::~RE2()’未定义的引用
+ACdreamJudger.cpp:(.text+0x1224)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ACdreamJudger.cpp:(.text+0x1264)：对‘re2::RE2::PartialMatch’未定义的引用
+ACdreamJudger.cpp:(.text+0x127d)：对‘re2::RE2::~RE2()’未定义的引用
+ACdreamJudger.cpp:(.text+0x1724)：对‘re2::RE2::~RE2()’未定义的引用
+ACdreamJudger.cpp:(.text+0x1771)：对‘re2::RE2::~RE2()’未定义的引用
+ACdreamJudger.cpp:(.text+0x1814)：对‘re2::RE2::~RE2()’未定义的引用
+ACdreamJudger.o：在函数‘ACdreamJudger::getCEinfo(Bott*)’中：
+ACdreamJudger.cpp:(.text+0x1d05)：对‘curl_easy_setopt’未定义的引用
+ACdreamJudger.cpp:(.text+0x1d9d)：对‘curl_easy_setopt’未定义的引用
+ACdreamJudger.o：在函数‘re2::RE2::Arg::Arg(std::string*)’中：
+ACdreamJudger.cpp:(.text._ZN3re23RE23ArgC2EPSs[_ZN3re23RE23ArgC5EPSs]+0x1f)：对‘re2::RE2::Arg::parse_string(char const*, int, void*)’未定义的引用
+ACdreamJudger.o：在函数‘re2::VariadicFunction2<bool, re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg, &re2::RE2::PartialMatchN>::operator()(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const&) const’中：
+ACdreamJudger.cpp:(.text._ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_[_ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_]+0x44)：对‘re2::RE2::PartialMatchN(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const* const*, int)’未定义的引用
+ACdreamJudger.o：在函数‘re2::VariadicFunction2<bool, re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg, &re2::RE2::PartialMatchN>::operator()(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const&, re2::RE2::Arg const&) const’中：
+ACdreamJudger.cpp:(.text._ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_SD_[_ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_SD_]+0x50)：对‘re2::RE2::PartialMatchN(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const* const*, int)’未定义的引用
+AizuJudger.o：在函数‘AizuJudger::login()’中：
+AizuJudger.cpp:(.text+0x4e9)：对‘curl_easy_setopt’未定义的引用
+AizuJudger.cpp:(.text+0x64a)：对‘curl_easy_setopt’未定义的引用
+AizuJudger.o：在函数‘AizuJudger::submit(Bott*)’中：
+AizuJudger.cpp:(.text+0x95a)：对‘curl_easy_setopt’未定义的引用
+AizuJudger.cpp:(.text+0xc9b)：对‘curl_easy_setopt’未定义的引用
+AizuJudger.o：在函数‘AizuJudger::getStatus(Bott*)’中：
+AizuJudger.cpp:(.text+0x1224)：对‘curl_easy_setopt’未定义的引用
+AizuJudger.cpp:(.text+0x130e)：对‘re2::RE2::RE2(char const*)’未定义的引用
+AizuJudger.cpp:(.text+0x1344)：对‘re2::RE2::PartialMatch’未定义的引用
+AizuJudger.cpp:(.text+0x135d)：对‘re2::RE2::~RE2()’未定义的引用
+AizuJudger.cpp:(.text+0x1420)：对‘re2::RE2::RE2(char const*)’未定义的引用
+AizuJudger.cpp:(.text+0x1460)：对‘re2::RE2::PartialMatch’未定义的引用
+AizuJudger.cpp:(.text+0x1479)：对‘re2::RE2::~RE2()’未定义的引用
+AizuJudger.cpp:(.text+0x1663)：对‘re2::RE2::RE2(char const*)’未定义的引用
+AizuJudger.cpp:(.text+0x16a3)：对‘re2::RE2::PartialMatch’未定义的引用
+AizuJudger.cpp:(.text+0x16bc)：对‘re2::RE2::~RE2()’未定义的引用
+AizuJudger.cpp:(.text+0x1b08)：对‘re2::RE2::~RE2()’未定义的引用
+AizuJudger.cpp:(.text+0x1b55)：对‘re2::RE2::~RE2()’未定义的引用
+AizuJudger.cpp:(.text+0x1bf8)：对‘re2::RE2::~RE2()’未定义的引用
+AizuJudger.o：在函数‘AizuJudger::getCEinfo(Bott*)’中：
+AizuJudger.cpp:(.text+0x1ff2)：对‘curl_easy_setopt’未定义的引用
+AizuJudger.cpp:(.text+0x2156)：对‘re2::RE2::RE2(char const*)’未定义的引用
+AizuJudger.cpp:(.text+0x218c)：对‘re2::RE2::PartialMatch’未定义的引用
+AizuJudger.cpp:(.text+0x21a5)：对‘re2::RE2::~RE2()’未定义的引用
+AizuJudger.cpp:(.text+0x221f)：对‘decode_html_entities_utf8’未定义的引用
+AizuJudger.cpp:(.text+0x2365)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.o：在函数‘CCJudger::getLoginHiddenParams()’中：
+CCJudger.cpp:(.text+0x734)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0x7c4)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x7fa)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x813)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0xa3d)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0xa64)：对‘re2::RE2::FindAndConsume’未定义的引用
+CCJudger.cpp:(.text+0xa7a)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0xb2a)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0xbf2)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.o：在函数‘CCJudger::login()’中：
+CCJudger.cpp:(.text+0xcdc)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0xe65)：对‘curl_easy_setopt’未定义的引用
+CCJudger.o：在函数‘CCJudger::getSubmitHiddenParams(std::string)’中：
+CCJudger.cpp:(.text+0x120a)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0x12c7)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x12fd)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x1316)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x14bc)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x14e3)：对‘re2::RE2::FindAndConsume’未定义的引用
+CCJudger.cpp:(.text+0x14f9)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x15ee)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x1677)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.o：在函数‘CCJudger::submit(Bott*)’中：
+CCJudger.cpp:(.text+0x183a)：对‘curl_formadd’未定义的引用
+CCJudger.cpp:(.text+0x18e3)：对‘curl_formadd’未定义的引用
+CCJudger.cpp:(.text+0x1955)：对‘curl_formadd’未定义的引用
+CCJudger.cpp:(.text+0x19a6)：对‘curl_formadd’未定义的引用
+CCJudger.cpp:(.text+0x1a4b)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0x1aab)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0x1ac9)：对‘curl_formfree’未定义的引用
+CCJudger.cpp:(.text+0x1bd2)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x1c08)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x1c21)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x1dcf)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.o：在函数‘CCJudger::getStatus(Bott*)’中：
+CCJudger.cpp:(.text+0x1fc1)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0x20ab)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x20e1)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x20fa)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x225f)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x2295)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x22ae)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x2596)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0x272c)：对‘re2::RE2::RE2(std::string const&)’未定义的引用
+CCJudger.cpp:(.text+0x2762)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x277b)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x2853)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x2889)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x28a2)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x2b27)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x2bb6)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x2d38)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x2db0)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.o：在函数‘CCJudger::getCEinfo(Bott*)’中：
+CCJudger.cpp:(.text+0x2f0e)：对‘curl_easy_setopt’未定义的引用
+CCJudger.cpp:(.text+0x2fbc)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CCJudger.cpp:(.text+0x2ff2)：对‘re2::RE2::PartialMatch’未定义的引用
+CCJudger.cpp:(.text+0x300b)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.cpp:(.text+0x3093)：对‘decode_html_entities_utf8’未定义的引用
+CCJudger.cpp:(.text+0x3198)：对‘re2::RE2::~RE2()’未定义的引用
+CCJudger.o：在函数‘re2::VariadicFunction2<bool, re2::StringPiece*, re2::RE2 const&, re2::RE2::Arg, &re2::RE2::FindAndConsumeN>::operator()(re2::StringPiece*, re2::RE2 const&, re2::RE2::Arg const&, re2::RE2::Arg const&) const’中：
+CCJudger.cpp:(.text._ZNK3re217VariadicFunction2IbPNS_11StringPieceERKNS_3RE2ENS3_3ArgEXadL_ZNS3_15FindAndConsumeNES2_S5_PKPKS6_iEEEclES2_S5_RS7_SC_[_ZNK3re217VariadicFunction2IbPNS_11StringPieceERKNS_3RE2ENS3_3ArgEXadL_ZNS3_15FindAndConsumeNES2_S5_PKPKS6_iEEEclES2_S5_RS7_SC_]+0x50)：对‘re2::RE2::FindAndConsumeN(re2::StringPiece*, re2::RE2 const&, re2::RE2::Arg const* const*, int)’未定义的引用
+CFJudger.o：在函数‘CFJudger::getCsrfParams(std::string)’中：
+CFJudger.cpp:(.text+0x626)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x6b6)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x6ec)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0x705)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x7fd)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.o：在函数‘CFJudger::getttaValue()’中：
+CFJudger.cpp:(.text+0xa86)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0xabc)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0xad5)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0xc73)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.o：在函数‘CFJudger::login()’中：
+CFJudger.cpp:(.text+0xde9)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0xe0b)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x1009)：对‘curl_easy_setopt’未定义的引用
+CFJudger.o：在函数‘CFJudger::getActionUrl()’中：
+CFJudger.cpp:(.text+0x13ec)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x147c)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x14b2)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0x14cb)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x15c3)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.o：在函数‘CFJudger::submit(Bott*)’中：
+CFJudger.cpp:(.text+0x1731)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x178a)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0x17b2)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x1910)：对‘curl_formadd’未定义的引用
+CFJudger.cpp:(.text+0x195a)：对‘curl_formadd’未定义的引用
+CFJudger.cpp:(.text+0x19a4)：对‘curl_formadd’未定义的引用
+CFJudger.cpp:(.text+0x1a07)：对‘curl_formadd’未定义的引用
+CFJudger.cpp:(.text+0x1a60)：对‘curl_formadd’未定义的引用
+CFJudger.o:CFJudger.cpp:(.text+0x1a9b): more undefined references to `curl_formadd' follow
+CFJudger.o：在函数‘CFJudger::submit(Bott*)’中：
+CFJudger.cpp:(.text+0x1b99)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x1bea)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x1c08)：对‘curl_formfree’未定义的引用
+CFJudger.cpp:(.text+0x1dd6)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.o：在函数‘CFJudger::getStatus(Bott*)’中：
+CFJudger.cpp:(.text+0x20ab)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x21b3)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x21e9)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0x2202)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x22ac)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x22e2)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0x22fb)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x243b)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x2491)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0x24ae)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x280d)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x285c)：对‘re2::RE2::PartialMatch’未定义的引用
+CFJudger.cpp:(.text+0x287f)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x2adc)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x2b29)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x2b8d)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x2d22)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.o：在函数‘CFJudger::getCEinfo(Bott*)’中：
+CFJudger.cpp:(.text+0x326f)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x338a)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x341a)：对‘re2::RE2::RE2(char const*)’未定义的引用
+CFJudger.cpp:(.text+0x3450)：对‘re2::RE2::FullMatch’未定义的引用
+CFJudger.cpp:(.text+0x3469)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.cpp:(.text+0x3678)：对‘re2::RE2::~RE2()’未定义的引用
+CFJudger.o：在函数‘CFJudger::getVerdict(std::string, std::string)’中：
+CFJudger.cpp:(.text+0x3801)：对‘curl_easy_setopt’未定义的引用
+CFJudger.cpp:(.text+0x38b6)：对‘htmlcxx::HTML::ParserDom::parseTree(std::string const&)’未定义的引用
+CFJudger.o：在函数‘htmlcxx::HTML::ParserDom::ParserDom()’中：
+CFJudger.cpp:(.text._ZN7htmlcxx4HTML9ParserDomC2Ev[_ZN7htmlcxx4HTML9ParserDomC5Ev]+0x20)：对‘vtable for htmlcxx::HTML::ParserDom’未定义的引用
+CFJudger.o：在函数‘htmlcxx::HTML::ParserDom::~ParserDom()’中：
+CFJudger.cpp:(.text._ZN7htmlcxx4HTML9ParserDomD2Ev[_ZN7htmlcxx4HTML9ParserDomD5Ev]+0x14)：对‘vtable for htmlcxx::HTML::ParserDom’未定义的引用
+CFJudger.o：在函数‘re2::VariadicFunction2<bool, re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg, &re2::RE2::PartialMatchN>::operator()(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const&, re2::RE2::Arg const&, re2::RE2::Arg const&, re2::RE2::Arg const&) const’中：
+CFJudger.cpp:(.text._ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_SD_SD_SD_[_ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_SD_SD_SD_]+0x6c)：对‘re2::RE2::PartialMatchN(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const* const*, int)’未定义的引用
+CFJudger.o：在函数‘re2::VariadicFunction2<bool, re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg, &re2::RE2::FullMatchN>::operator()(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const&) const’中：
+CFJudger.cpp:(.text._ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_10FullMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_[_ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_10FullMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_]+0x44)：对‘re2::RE2::FullMatchN(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const* const*, int)’未定义的引用
+FZUJudger.o：在函数‘FZUJudger::login()’中：
+FZUJudger.cpp:(.text+0x4e9)：对‘curl_easy_setopt’未定义的引用
+FZUJudger.cpp:(.text+0x625)：对‘curl_easy_setopt’未定义的引用
+FZUJudger.o：在函数‘FZUJudger::submit(Bott*)’中：
+FZUJudger.cpp:(.text+0x8f8)：对‘curl_easy_setopt’未定义的引用
+FZUJudger.cpp:(.text+0xb5d)：对‘curl_easy_setopt’未定义的引用
+FZUJudger.o：在函数‘FZUJudger::getStatus(Bott*)’中：
+FZUJudger.cpp:(.text+0x10a8)：对‘curl_easy_setopt’未定义的引用
+FZUJudger.cpp:(.text+0x125c)：对‘re2::RE2::RE2(char const*)’未定义的引用
+FZUJudger.cpp:(.text+0x129e)：对‘re2::RE2::PartialMatch’未定义的引用
+FZUJudger.cpp:(.text+0x12cf)：对‘re2::RE2::~RE2()’未定义的引用
+FZUJudger.cpp:(.text+0x1395)：对‘re2::RE2::RE2(char const*)’未定义的引用
+FZUJudger.cpp:(.text+0x13d5)：对‘re2::RE2::PartialMatch’未定义的引用
+FZUJudger.cpp:(.text+0x13ee)：对‘re2::RE2::~RE2()’未定义的引用
+FZUJudger.cpp:(.text+0x1581)：对‘re2::RE2::RE2(char const*)’未定义的引用
+FZUJudger.cpp:(.text+0x15c1)：对‘re2::RE2::PartialMatch’未定义的引用
+FZUJudger.cpp:(.text+0x15da)：对‘re2::RE2::~RE2()’未定义的引用
+FZUJudger.cpp:(.text+0x1a66)：对‘re2::RE2::~RE2()’未定义的引用
+FZUJudger.cpp:(.text+0x1abe)：对‘re2::RE2::~RE2()’未定义的引用
+FZUJudger.cpp:(.text+0x1b4d)：对‘re2::RE2::~RE2()’未定义的引用
+FZUJudger.o：在函数‘FZUJudger::getCEinfo(Bott*)’中：
+FZUJudger.cpp:(.text+0x1ee0)：对‘curl_easy_setopt’未定义的引用
+FZUJudger.cpp:(.text+0x1f8e)：对‘re2::RE2::RE2(char const*)’未定义的引用
+FZUJudger.cpp:(.text+0x1fc4)：对‘re2::RE2::PartialMatch’未定义的引用
+FZUJudger.cpp:(.text+0x1fdd)：对‘re2::RE2::~RE2()’未定义的引用
+FZUJudger.cpp:(.text+0x2065)：对‘decode_html_entities_utf8’未定义的引用
+FZUJudger.cpp:(.text+0x216a)：对‘re2::RE2::~RE2()’未定义的引用
+hcxselect.o：在函数‘hcxselect::(anonymous namespace)::Selectors::Attribute::match(tree<htmlcxx::HTML::Node, std::allocator<tree_node_<htmlcxx::HTML::Node> > >::pre_order_iterator const&) const’中：
+hcxselect.cpp:(.text+0x2db2)：对‘htmlcxx::HTML::Node::parseAttributes()’未定义的引用
+hcxselect.o：在函数‘hcxselect::(anonymous namespace)::Selectors::AttributeValue::match(tree<htmlcxx::HTML::Node, std::allocator<tree_node_<htmlcxx::HTML::Node> > >::pre_order_iterator const&) const’中：
+hcxselect.cpp:(.text+0x2f3a)：对‘htmlcxx::HTML::Node::parseAttributes()’未定义的引用
+HDUJudger.o：在函数‘HDUJudger::login()’中：
+HDUJudger.cpp:(.text+0x4e9)：对‘curl_easy_setopt’未定义的引用
+HDUJudger.cpp:(.text+0x625)：对‘curl_easy_setopt’未定义的引用
+HDUJudger.o：在函数‘HDUJudger::submit(Bott*)’中：
+HDUJudger.cpp:(.text+0x972)：对‘curl_easy_setopt’未定义的引用
+HDUJudger.cpp:(.text+0xb22)：对‘curl_easy_setopt’未定义的引用
+HDUJudger.o：在函数‘HDUJudger::getStatus(Bott*)’中：
+HDUJudger.cpp:(.text+0x1060)：对‘curl_easy_setopt’未定义的引用
+HDUJudger.cpp:(.text+0x128c)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HDUJudger.cpp:(.text+0x12ce)：对‘re2::RE2::PartialMatch’未定义的引用
+HDUJudger.cpp:(.text+0x12ff)：对‘re2::RE2::~RE2()’未定义的引用
+HDUJudger.cpp:(.text+0x13c5)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HDUJudger.cpp:(.text+0x1405)：对‘re2::RE2::PartialMatch’未定义的引用
+HDUJudger.cpp:(.text+0x141e)：对‘re2::RE2::~RE2()’未定义的引用
+HDUJudger.cpp:(.text+0x1595)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HDUJudger.cpp:(.text+0x15d5)：对‘re2::RE2::PartialMatch’未定义的引用
+HDUJudger.cpp:(.text+0x15ee)：对‘re2::RE2::~RE2()’未定义的引用
+HDUJudger.cpp:(.text+0x1a61)：对‘re2::RE2::~RE2()’未定义的引用
+HDUJudger.cpp:(.text+0x1ab9)：对‘re2::RE2::~RE2()’未定义的引用
+HDUJudger.cpp:(.text+0x1b48)：对‘re2::RE2::~RE2()’未定义的引用
+HDUJudger.o：在函数‘HDUJudger::getCEinfo(Bott*)’中：
+HDUJudger.cpp:(.text+0x2024)：对‘curl_easy_setopt’未定义的引用
+HDUJudger.cpp:(.text+0x2188)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HDUJudger.cpp:(.text+0x21be)：对‘re2::RE2::PartialMatch’未定义的引用
+HDUJudger.cpp:(.text+0x21d7)：对‘re2::RE2::~RE2()’未定义的引用
+HDUJudger.cpp:(.text+0x2251)：对‘decode_html_entities_utf8’未定义的引用
+HDUJudger.cpp:(.text+0x236f)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.o：在函数‘HRBUSTJudger::login()’中：
+HRBUSTJudger.cpp:(.text+0x32b)：对‘curl_easy_setopt’未定义的引用
+HRBUSTJudger.cpp:(.text+0x487)：对‘curl_easy_setopt’未定义的引用
+HRBUSTJudger.o：在函数‘HRBUSTJudger::submit(Bott*)’中：
+HRBUSTJudger.cpp:(.text+0x7be)：对‘curl_easy_setopt’未定义的引用
+HRBUSTJudger.cpp:(.text+0x96e)：对‘curl_easy_setopt’未定义的引用
+HRBUSTJudger.o：在函数‘HRBUSTJudger::getStatus(Bott*)’中：
+HRBUSTJudger.cpp:(.text+0xe9e)：对‘curl_easy_setopt’未定义的引用
+HRBUSTJudger.cpp:(.text+0x1066)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HRBUSTJudger.cpp:(.text+0x10a8)：对‘re2::RE2::PartialMatch’未定义的引用
+HRBUSTJudger.cpp:(.text+0x10d9)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.cpp:(.text+0x119f)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HRBUSTJudger.cpp:(.text+0x11df)：对‘re2::RE2::PartialMatch’未定义的引用
+HRBUSTJudger.cpp:(.text+0x11f8)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.cpp:(.text+0x139e)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HRBUSTJudger.cpp:(.text+0x13de)：对‘re2::RE2::PartialMatch’未定义的引用
+HRBUSTJudger.cpp:(.text+0x13f7)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.cpp:(.text+0x189f)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.cpp:(.text+0x18f7)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.cpp:(.text+0x199a)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.o：在函数‘HRBUSTJudger::getCEinfo(Bott*)’中：
+HRBUSTJudger.cpp:(.text+0x1e62)：对‘curl_easy_setopt’未定义的引用
+HRBUSTJudger.cpp:(.text+0x1f10)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HRBUSTJudger.cpp:(.text+0x1f46)：对‘re2::RE2::PartialMatch’未定义的引用
+HRBUSTJudger.cpp:(.text+0x1f5f)：对‘re2::RE2::~RE2()’未定义的引用
+HRBUSTJudger.cpp:(.text+0x2071)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.o：在函数‘HUSTJudger::login()’中：
+HUSTJudger.cpp:(.text+0x3ad)：对‘curl_easy_setopt’未定义的引用
+HUSTJudger.cpp:(.text+0x4e9)：对‘curl_easy_setopt’未定义的引用
+HUSTJudger.o：在函数‘HUSTJudger::submit(Bott*)’中：
+HUSTJudger.cpp:(.text+0x7bc)：对‘curl_easy_setopt’未定义的引用
+HUSTJudger.cpp:(.text+0x96c)：对‘curl_easy_setopt’未定义的引用
+HUSTJudger.o：在函数‘HUSTJudger::getStatus(Bott*)’中：
+HUSTJudger.cpp:(.text+0xe2b)：对‘curl_easy_setopt’未定义的引用
+HUSTJudger.cpp:(.text+0xfbf)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HUSTJudger.cpp:(.text+0x1001)：对‘re2::RE2::PartialMatch’未定义的引用
+HUSTJudger.cpp:(.text+0x1032)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.cpp:(.text+0x10f8)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HUSTJudger.cpp:(.text+0x1138)：对‘re2::RE2::PartialMatch’未定义的引用
+HUSTJudger.cpp:(.text+0x1151)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.cpp:(.text+0x12e4)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HUSTJudger.cpp:(.text+0x1324)：对‘re2::RE2::PartialMatch’未定义的引用
+HUSTJudger.cpp:(.text+0x133d)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.cpp:(.text+0x1805)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.cpp:(.text+0x185d)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.cpp:(.text+0x18ec)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.o：在函数‘HUSTJudger::getCEinfo(Bott*)’中：
+HUSTJudger.cpp:(.text+0x1ba4)：对‘curl_easy_setopt’未定义的引用
+HUSTJudger.cpp:(.text+0x1c52)：对‘re2::RE2::RE2(char const*)’未定义的引用
+HUSTJudger.cpp:(.text+0x1c88)：对‘re2::RE2::PartialMatch’未定义的引用
+HUSTJudger.cpp:(.text+0x1ca1)：对‘re2::RE2::~RE2()’未定义的引用
+HUSTJudger.cpp:(.text+0x1db3)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.o：在函数‘LOJJudger::login()’中：
+LOJJudger.cpp:(.text+0x459)：对‘curl_easy_setopt’未定义的引用
+LOJJudger.cpp:(.text+0x595)：对‘curl_easy_setopt’未定义的引用
+LOJJudger.o：在函数‘LOJJudger::submit(Bott*)’中：
+LOJJudger.cpp:(.text+0x8bc)：对‘curl_formadd’未定义的引用
+LOJJudger.cpp:(.text+0x91c)：对‘curl_formadd’未定义的引用
+LOJJudger.cpp:(.text+0x97c)：对‘curl_formadd’未定义的引用
+LOJJudger.cpp:(.text+0x9b7)：对‘curl_easy_setopt’未定义的引用
+LOJJudger.cpp:(.text+0x9d5)：对‘curl_easy_setopt’未定义的引用
+LOJJudger.cpp:(.text+0x9ed)：对‘curl_formfree’未定义的引用
+LOJJudger.o：在函数‘LOJJudger::getStatus(Bott*)’中：
+LOJJudger.cpp:(.text+0xc39)：对‘curl_easy_setopt’未定义的引用
+LOJJudger.cpp:(.text+0xd05)：对‘re2::RE2::RE2(char const*)’未定义的引用
+LOJJudger.cpp:(.text+0xd3b)：对‘re2::RE2::PartialMatch’未定义的引用
+LOJJudger.cpp:(.text+0xd54)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.cpp:(.text+0xe17)：对‘re2::RE2::RE2(char const*)’未定义的引用
+LOJJudger.cpp:(.text+0xe57)：对‘re2::RE2::PartialMatch’未定义的引用
+LOJJudger.cpp:(.text+0xe70)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.cpp:(.text+0x108c)：对‘re2::RE2::RE2(char const*)’未定义的引用
+LOJJudger.cpp:(.text+0x10d6)：对‘re2::RE2::PartialMatch’未定义的引用
+LOJJudger.cpp:(.text+0x10ef)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.cpp:(.text+0x154e)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.cpp:(.text+0x159b)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.cpp:(.text+0x1655)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.o：在函数‘LOJJudger::getCEinfo(Bott*)’中：
+LOJJudger.cpp:(.text+0x1892)：对‘curl_easy_setopt’未定义的引用
+LOJJudger.cpp:(.text+0x1940)：对‘re2::RE2::RE2(char const*)’未定义的引用
+LOJJudger.cpp:(.text+0x1976)：对‘re2::RE2::PartialMatch’未定义的引用
+LOJJudger.cpp:(.text+0x198f)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.cpp:(.text+0x1aa1)：对‘re2::RE2::~RE2()’未定义的引用
+LOJJudger.o：在函数‘re2::VariadicFunction2<bool, re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg, &re2::RE2::PartialMatchN>::operator()(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const&, re2::RE2::Arg const&, re2::RE2::Arg const&) const’中：
+LOJJudger.cpp:(.text._ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_SD_SD_[_ZNK3re217VariadicFunction2IbRKNS_11StringPieceERKNS_3RE2ENS4_3ArgEXadL_ZNS4_13PartialMatchNES3_S6_PKPKS7_iEEEclES3_S6_RS8_SD_SD_]+0x5c)：对‘re2::RE2::PartialMatchN(re2::StringPiece const&, re2::RE2 const&, re2::RE2::Arg const* const*, int)’未定义的引用
+NBUTJudger.o：在函数‘NBUTJudger::login()’中：
+NBUTJudger.cpp:(.text+0x328)：对‘curl_easy_setopt’未定义的引用
+NBUTJudger.cpp:(.text+0x43a)：对‘curl_easy_setopt’未定义的引用
+NBUTJudger.o：在函数‘NBUTJudger::submit(Bott*)’中：
+NBUTJudger.cpp:(.text+0x6ee)：对‘curl_easy_setopt’未定义的引用
+NBUTJudger.cpp:(.text+0x89e)：对‘curl_easy_setopt’未定义的引用
+NBUTJudger.o：在函数‘NBUTJudger::getStatus(Bott*)’中：
+NBUTJudger.cpp:(.text+0xd79)：对‘curl_easy_setopt’未定义的引用
+NBUTJudger.cpp:(.text+0xf46)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NBUTJudger.cpp:(.text+0xf88)：对‘re2::RE2::PartialMatch’未定义的引用
+NBUTJudger.cpp:(.text+0xfb9)：对‘re2::RE2::~RE2()’未定义的引用
+NBUTJudger.cpp:(.text+0x107f)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NBUTJudger.cpp:(.text+0x10bf)：对‘re2::RE2::PartialMatch’未定义的引用
+NBUTJudger.cpp:(.text+0x10d8)：对‘re2::RE2::~RE2()’未定义的引用
+NBUTJudger.cpp:(.text+0x124f)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NBUTJudger.cpp:(.text+0x128f)：对‘re2::RE2::PartialMatch’未定义的引用
+NBUTJudger.cpp:(.text+0x12a8)：对‘re2::RE2::~RE2()’未定义的引用
+NBUTJudger.cpp:(.text+0x175c)：对‘re2::RE2::~RE2()’未定义的引用
+NBUTJudger.cpp:(.text+0x17b4)：对‘re2::RE2::~RE2()’未定义的引用
+NBUTJudger.cpp:(.text+0x1843)：对‘re2::RE2::~RE2()’未定义的引用
+NBUTJudger.o：在函数‘NBUTJudger::getCEinfo(Bott*)’中：
+NBUTJudger.cpp:(.text+0x1a6a)：对‘curl_easy_setopt’未定义的引用
+NBUTJudger.cpp:(.text+0x1b18)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NBUTJudger.cpp:(.text+0x1b4e)：对‘re2::RE2::PartialMatch’未定义的引用
+NBUTJudger.cpp:(.text+0x1b67)：对‘re2::RE2::~RE2()’未定义的引用
+NBUTJudger.cpp:(.text+0x1c79)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.o：在函数‘NJUPTJudger::login()’中：
+NJUPTJudger.cpp:(.text+0x3aa)：对‘curl_easy_setopt’未定义的引用
+NJUPTJudger.cpp:(.text+0x4b9)：对‘curl_easy_setopt’未定义的引用
+NJUPTJudger.o：在函数‘NJUPTJudger::submit(Bott*)’中：
+NJUPTJudger.cpp:(.text+0x764)：对‘curl_easy_setopt’未定义的引用
+NJUPTJudger.cpp:(.text+0x945)：对‘curl_easy_setopt’未定义的引用
+NJUPTJudger.o：在函数‘NJUPTJudger::getStatus(Bott*)’中：
+NJUPTJudger.cpp:(.text+0xd66)：对‘curl_easy_setopt’未定义的引用
+NJUPTJudger.o:NJUPTJudger.cpp:(.text+0xfcc): more undefined references to `curl_easy_setopt' follow
+NJUPTJudger.o：在函数‘NJUPTJudger::getStatus(Bott*)’中：
+NJUPTJudger.cpp:(.text+0x1098)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NJUPTJudger.cpp:(.text+0x10ce)：对‘re2::RE2::PartialMatch’未定义的引用
+NJUPTJudger.cpp:(.text+0x10e7)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.cpp:(.text+0x11aa)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NJUPTJudger.cpp:(.text+0x11ea)：对‘re2::RE2::PartialMatch’未定义的引用
+NJUPTJudger.cpp:(.text+0x1203)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.cpp:(.text+0x13c5)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NJUPTJudger.cpp:(.text+0x1405)：对‘re2::RE2::PartialMatch’未定义的引用
+NJUPTJudger.cpp:(.text+0x141e)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.cpp:(.text+0x1a31)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.cpp:(.text+0x1a7e)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.cpp:(.text+0x1b21)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.o：在函数‘NJUPTJudger::getCEinfo(Bott*)’中：
+NJUPTJudger.cpp:(.text+0x229c)：对‘curl_easy_setopt’未定义的引用
+NJUPTJudger.cpp:(.text+0x2400)：对‘re2::RE2::RE2(char const*)’未定义的引用
+NJUPTJudger.cpp:(.text+0x2436)：对‘re2::RE2::PartialMatch’未定义的引用
+NJUPTJudger.cpp:(.text+0x244f)：对‘re2::RE2::~RE2()’未定义的引用
+NJUPTJudger.cpp:(.text+0x24c9)：对‘decode_html_entities_utf8’未定义的引用
+NJUPTJudger.cpp:(.text+0x260f)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.o：在函数‘OpenJudgeJudger::login()’中：
+OpenJudgeJudger.cpp:(.text+0x3aa)：对‘curl_easy_setopt’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x4bc)：对‘curl_easy_setopt’未定义的引用
+OpenJudgeJudger.o：在函数‘OpenJudgeJudger::submit(Bott*)’中：
+OpenJudgeJudger.cpp:(.text+0x77c)：对‘curl_easy_setopt’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x946)：对‘curl_easy_setopt’未定义的引用
+OpenJudgeJudger.cpp:(.text+0xa2f)：对‘re2::RE2::RE2(char const*)’未定义的引用
+OpenJudgeJudger.cpp:(.text+0xa65)：对‘re2::RE2::PartialMatch’未定义的引用
+OpenJudgeJudger.cpp:(.text+0xa7e)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.cpp:(.text+0xccc)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.o：在函数‘OpenJudgeJudger::getStatus(Bott*)’中：
+OpenJudgeJudger.cpp:(.text+0xe90)：对‘curl_easy_setopt’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x1023)：对‘re2::RE2::RE2(char const*)’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x1059)：对‘re2::RE2::PartialMatch’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x1072)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x1275)：对‘re2::RE2::RE2(char const*)’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x12b5)：对‘re2::RE2::PartialMatch’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x12ce)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x1690)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x174a)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.o：在函数‘OpenJudgeJudger::getCEinfo(Bott*)’中：
+OpenJudgeJudger.cpp:(.text+0x191a)：对‘curl_easy_setopt’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x19c8)：对‘re2::RE2::RE2(char const*)’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x19fe)：对‘re2::RE2::PartialMatch’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x1a17)：对‘re2::RE2::~RE2()’未定义的引用
+OpenJudgeJudger.cpp:(.text+0x1b29)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.o：在函数‘PKUJudger::login()’中：
+PKUJudger.cpp:(.text+0x4e9)：对‘curl_easy_setopt’未定义的引用
+PKUJudger.cpp:(.text+0x625)：对‘curl_easy_setopt’未定义的引用
+PKUJudger.o：在函数‘PKUJudger::submit(Bott*)’中：
+PKUJudger.cpp:(.text+0x8f8)：对‘curl_easy_setopt’未定义的引用
+PKUJudger.cpp:(.text+0xaa8)：对‘curl_easy_setopt’未定义的引用
+PKUJudger.o：在函数‘PKUJudger::getStatus(Bott*)’中：
+PKUJudger.cpp:(.text+0xf97)：对‘curl_easy_setopt’未定义的引用
+PKUJudger.o:PKUJudger.cpp:(.text+0x104f): more undefined references to `curl_easy_setopt' follow
+PKUJudger.o：在函数‘PKUJudger::getStatus(Bott*)’中：
+PKUJudger.cpp:(.text+0x1199)：对‘re2::RE2::RE2(char const*)’未定义的引用
+PKUJudger.cpp:(.text+0x11db)：对‘re2::RE2::PartialMatch’未定义的引用
+PKUJudger.cpp:(.text+0x120c)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.cpp:(.text+0x12d2)：对‘re2::RE2::RE2(char const*)’未定义的引用
+PKUJudger.cpp:(.text+0x1312)：对‘re2::RE2::PartialMatch’未定义的引用
+PKUJudger.cpp:(.text+0x132b)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.cpp:(.text+0x14be)：对‘re2::RE2::RE2(char const*)’未定义的引用
+PKUJudger.cpp:(.text+0x14fe)：对‘re2::RE2::PartialMatch’未定义的引用
+PKUJudger.cpp:(.text+0x1517)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.cpp:(.text+0x19df)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.cpp:(.text+0x1a37)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.cpp:(.text+0x1ac6)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.o：在函数‘PKUJudger::getCEinfo(Bott*)’中：
+PKUJudger.cpp:(.text+0x1f34)：对‘curl_easy_setopt’未定义的引用
+PKUJudger.cpp:(.text+0x1fe2)：对‘re2::RE2::RE2(char const*)’未定义的引用
+PKUJudger.cpp:(.text+0x2018)：对‘re2::RE2::PartialMatch’未定义的引用
+PKUJudger.cpp:(.text+0x2031)：对‘re2::RE2::~RE2()’未定义的引用
+PKUJudger.cpp:(.text+0x20b9)：对‘decode_html_entities_utf8’未定义的引用
+PKUJudger.cpp:(.text+0x21be)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.o：在函数‘SCUJudger::login()’中：
+SCUJudger.cpp:(.text+0x3aa)：对‘curl_easy_setopt’未定义的引用
+SCUJudger.cpp:(.text+0x4bc)：对‘curl_easy_setopt’未定义的引用
+SCUJudger.o：在函数‘SCUJudger::submit(Bott*)’中：
+SCUJudger.cpp:(.text+0x7d8)：对‘curl_easy_setopt’未定义的引用
+SCUJudger.cpp:(.text+0xa15)：对‘curl_easy_setopt’未定义的引用
+SCUJudger.o：在函数‘SCUJudger::getStatus(Bott*)’中：
+SCUJudger.cpp:(.text+0xf2c)：对‘curl_easy_setopt’未定义的引用
+SCUJudger.cpp:(.text+0x1052)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SCUJudger.cpp:(.text+0x1088)：对‘re2::RE2::PartialMatch’未定义的引用
+SCUJudger.cpp:(.text+0x10a1)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.cpp:(.text+0x1164)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SCUJudger.cpp:(.text+0x11a4)：对‘re2::RE2::PartialMatch’未定义的引用
+SCUJudger.cpp:(.text+0x11bd)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.cpp:(.text+0x13bd)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SCUJudger.cpp:(.text+0x1407)：对‘re2::RE2::PartialMatch’未定义的引用
+SCUJudger.cpp:(.text+0x1420)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.cpp:(.text+0x1839)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.cpp:(.text+0x1886)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.cpp:(.text+0x1940)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.o：在函数‘SCUJudger::getCEinfo(Bott*)’中：
+SCUJudger.cpp:(.text+0x1b4e)：对‘curl_easy_setopt’未定义的引用
+SCUJudger.cpp:(.text+0x1cb2)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SCUJudger.cpp:(.text+0x1ce8)：对‘re2::RE2::PartialMatch’未定义的引用
+SCUJudger.cpp:(.text+0x1d01)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.cpp:(.text+0x1d7b)：对‘decode_html_entities_utf8’未定义的引用
+SCUJudger.cpp:(.text+0x1e99)：对‘re2::RE2::~RE2()’未定义的引用
+SCUJudger.o：在函数‘SCUJudger::loadImage(std::string, int&, int&, int*&)’中：
+SCUJudger.cpp:(.text+0x237a)：对‘jpeg_std_error’未定义的引用
+SCUJudger.cpp:(.text+0x239a)：对‘jpeg_CreateDecompress’未定义的引用
+SCUJudger.cpp:(.text+0x23b3)：对‘jpeg_stdio_src’未定义的引用
+SCUJudger.cpp:(.text+0x23c7)：对‘jpeg_read_header’未定义的引用
+SCUJudger.cpp:(.text+0x23d6)：对‘jpeg_start_decompress’未定义的引用
+SCUJudger.cpp:(.text+0x2518)：对‘jpeg_read_scanlines’未定义的引用
+SCUJudger.cpp:(.text+0x2686)：对‘jpeg_finish_decompress’未定义的引用
+SCUJudger.cpp:(.text+0x2695)：对‘jpeg_destroy_decompress’未定义的引用
+SCUJudger.o：在函数‘SCUJudger::getCode()’中：
+SCUJudger.cpp:(.text+0x27e7)：对‘curl_easy_setopt’未定义的引用
+SGUJudger.o：在函数‘SGUJudger::login()’中：
+SGUJudger.cpp:(.text+0x57b)：对‘curl_easy_setopt’未定义的引用
+SGUJudger.cpp:(.text+0x6b7)：对‘curl_easy_setopt’未定义的引用
+SGUJudger.o：在函数‘SGUJudger::submit(Bott*)’中：
+SGUJudger.cpp:(.text+0x9b8)：对‘curl_easy_setopt’未定义的引用
+SGUJudger.cpp:(.text+0xcf0)：对‘curl_easy_setopt’未定义的引用
+SGUJudger.o:SGUJudger.cpp:(.text+0x12ee): more undefined references to `curl_easy_setopt' follow
+SGUJudger.o：在函数‘SGUJudger::getStatus(Bott*)’中：
+SGUJudger.cpp:(.text+0x1441)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SGUJudger.cpp:(.text+0x1477)：对‘re2::RE2::PartialMatch’未定义的引用
+SGUJudger.cpp:(.text+0x1490)：对‘re2::RE2::~RE2()’未定义的引用
+SGUJudger.cpp:(.text+0x1553)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SGUJudger.cpp:(.text+0x1593)：对‘re2::RE2::PartialMatch’未定义的引用
+SGUJudger.cpp:(.text+0x15ac)：对‘re2::RE2::~RE2()’未定义的引用
+SGUJudger.cpp:(.text+0x1755)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SGUJudger.cpp:(.text+0x17ab)：对‘re2::RE2::PartialMatch’未定义的引用
+SGUJudger.cpp:(.text+0x17c8)：对‘re2::RE2::~RE2()’未定义的引用
+SGUJudger.cpp:(.text+0x1c47)：对‘re2::RE2::~RE2()’未定义的引用
+SGUJudger.cpp:(.text+0x1c94)：对‘re2::RE2::~RE2()’未定义的引用
+SGUJudger.cpp:(.text+0x1d23)：对‘re2::RE2::~RE2()’未定义的引用
+SGUJudger.o：在函数‘SGUJudger::getCEinfo(Bott*)’中：
+SGUJudger.cpp:(.text+0x1f42)：对‘curl_easy_setopt’未定义的引用
+SGUJudger.cpp:(.text+0x1ff0)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SGUJudger.cpp:(.text+0x2026)：对‘re2::RE2::PartialMatch’未定义的引用
+SGUJudger.cpp:(.text+0x203f)：对‘re2::RE2::~RE2()’未定义的引用
+SGUJudger.cpp:(.text+0x2280)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.o：在函数‘SPOJJudger::login()’中：
+SPOJJudger.cpp:(.text+0x72d)：对‘curl_easy_setopt’未定义的引用
+SPOJJudger.cpp:(.text+0x74f)：对‘curl_easy_setopt’未定义的引用
+SPOJJudger.cpp:(.text+0x88b)：对‘curl_easy_setopt’未定义的引用
+SPOJJudger.o：在函数‘SPOJJudger::submit(Bott*)’中：
+SPOJJudger.cpp:(.text+0xb93)：对‘curl_formadd’未定义的引用
+SPOJJudger.cpp:(.text+0xbe7)：对‘curl_formadd’未定义的引用
+SPOJJudger.cpp:(.text+0xc47)：对‘curl_formadd’未定义的引用
+SPOJJudger.cpp:(.text+0xca7)：对‘curl_formadd’未定义的引用
+SPOJJudger.cpp:(.text+0xce2)：对‘curl_easy_setopt’未定义的引用
+SPOJJudger.cpp:(.text+0xd00)：对‘curl_easy_setopt’未定义的引用
+SPOJJudger.o：在函数‘SPOJJudger::getStatus(Bott*)’中：
+SPOJJudger.cpp:(.text+0xfe4)：对‘curl_easy_setopt’未定义的引用
+SPOJJudger.cpp:(.text+0x10dd)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SPOJJudger.cpp:(.text+0x1113)：对‘re2::RE2::PartialMatch’未定义的引用
+SPOJJudger.cpp:(.text+0x112c)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.cpp:(.text+0x11ef)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SPOJJudger.cpp:(.text+0x122f)：对‘re2::RE2::PartialMatch’未定义的引用
+SPOJJudger.cpp:(.text+0x1248)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.cpp:(.text+0x14b3)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SPOJJudger.cpp:(.text+0x14fd)：对‘re2::RE2::PartialMatch’未定义的引用
+SPOJJudger.cpp:(.text+0x1516)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.cpp:(.text+0x1a59)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.cpp:(.text+0x1aa6)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.cpp:(.text+0x1b60)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.o：在函数‘SPOJJudger::getCEinfo(Bott*)’中：
+SPOJJudger.cpp:(.text+0x1dbc)：对‘curl_easy_setopt’未定义的引用
+SPOJJudger.cpp:(.text+0x1e6a)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SPOJJudger.cpp:(.text+0x1ea0)：对‘re2::RE2::PartialMatch’未定义的引用
+SPOJJudger.cpp:(.text+0x1eb9)：对‘re2::RE2::~RE2()’未定义的引用
+SPOJJudger.cpp:(.text+0x1fcb)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.o：在函数‘SYSUJudger::login()’中：
+SYSUJudger.cpp:(.text+0x32b)：对‘curl_easy_setopt’未定义的引用
+SYSUJudger.cpp:(.text+0x467)：对‘curl_easy_setopt’未定义的引用
+SYSUJudger.o：在函数‘SYSUJudger::submit(Bott*)’中：
+SYSUJudger.cpp:(.text+0x768)：对‘curl_easy_setopt’未定义的引用
+SYSUJudger.cpp:(.text+0x957)：对‘curl_easy_setopt’未定义的引用
+SYSUJudger.cpp:(.text+0xa16)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SYSUJudger.cpp:(.text+0xa4c)：对‘re2::RE2::PartialMatch’未定义的引用
+SYSUJudger.cpp:(.text+0xa65)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.cpp:(.text+0xcea)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.o：在函数‘SYSUJudger::getStatus(Bott*)’中：
+SYSUJudger.cpp:(.text+0xe81)：对‘curl_easy_setopt’未定义的引用
+SYSUJudger.cpp:(.text+0xef3)：对‘curl_easy_setopt’未定义的引用
+SYSUJudger.cpp:(.text+0x103e)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SYSUJudger.cpp:(.text+0x1074)：对‘re2::RE2::PartialMatch’未定义的引用
+SYSUJudger.cpp:(.text+0x108d)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.cpp:(.text+0x1274)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SYSUJudger.cpp:(.text+0x12b4)：对‘re2::RE2::PartialMatch’未定义的引用
+SYSUJudger.cpp:(.text+0x12cd)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.cpp:(.text+0x171c)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.cpp:(.text+0x17d6)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.o：在函数‘SYSUJudger::getCEinfo(Bott*)’中：
+SYSUJudger.cpp:(.text+0x19e8)：对‘curl_easy_setopt’未定义的引用
+SYSUJudger.cpp:(.text+0x1a96)：对‘re2::RE2::RE2(char const*)’未定义的引用
+SYSUJudger.cpp:(.text+0x1acc)：对‘re2::RE2::PartialMatch’未定义的引用
+SYSUJudger.cpp:(.text+0x1ae5)：对‘re2::RE2::~RE2()’未定义的引用
+SYSUJudger.cpp:(.text+0x1bf7)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.o：在函数‘UralJudger::UralJudger(JudgerInfo*)’中：
+UralJudger.cpp:(.text+0x33f)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UralJudger.cpp:(.text+0x392)：对‘re2::RE2::PartialMatch’未定义的引用
+UralJudger.cpp:(.text+0x3ba)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.cpp:(.text+0x574)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.o：在函数‘UralJudger::submit(Bott*)’中：
+UralJudger.cpp:(.text+0x6ed)：对‘curl_formadd’未定义的引用
+UralJudger.cpp:(.text+0x722)：对‘curl_formadd’未定义的引用
+UralJudger.cpp:(.text+0x77a)：对‘curl_formadd’未定义的引用
+UralJudger.cpp:(.text+0x7da)：对‘curl_formadd’未定义的引用
+UralJudger.cpp:(.text+0x83a)：对‘curl_formadd’未定义的引用
+UralJudger.o:UralJudger.cpp:(.text+0x89a): more undefined references to `curl_formadd' follow
+UralJudger.o：在函数‘UralJudger::submit(Bott*)’中：
+UralJudger.cpp:(.text+0x8d5)：对‘curl_easy_setopt’未定义的引用
+UralJudger.cpp:(.text+0x8f3)：对‘curl_easy_setopt’未定义的引用
+UralJudger.cpp:(.text+0x90b)：对‘curl_formfree’未定义的引用
+UralJudger.o：在函数‘UralJudger::getStatus(Bott*)’中：
+UralJudger.cpp:(.text+0xb9d)：对‘curl_easy_setopt’未定义的引用
+UralJudger.cpp:(.text+0xc78)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UralJudger.cpp:(.text+0xcae)：对‘re2::RE2::PartialMatch’未定义的引用
+UralJudger.cpp:(.text+0xcc7)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.cpp:(.text+0xd8a)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UralJudger.cpp:(.text+0xdca)：对‘re2::RE2::PartialMatch’未定义的引用
+UralJudger.cpp:(.text+0xde3)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.cpp:(.text+0xfff)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UralJudger.cpp:(.text+0x1049)：对‘re2::RE2::PartialMatch’未定义的引用
+UralJudger.cpp:(.text+0x1062)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.cpp:(.text+0x14de)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.cpp:(.text+0x152b)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.cpp:(.text+0x15e5)：对‘re2::RE2::~RE2()’未定义的引用
+UralJudger.o：在函数‘UralJudger::getCEinfo(Bott*)’中：
+UralJudger.cpp:(.text+0x1801)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.o：在函数‘UVAJudger::getLoginHiddenParams()’中：
+UVAJudger.cpp:(.text+0x3b4)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.cpp:(.text+0x444)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVAJudger.cpp:(.text+0x47a)：对‘re2::RE2::PartialMatch’未定义的引用
+UVAJudger.cpp:(.text+0x493)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x6bd)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVAJudger.cpp:(.text+0x6e4)：对‘re2::RE2::FindAndConsume’未定义的引用
+UVAJudger.cpp:(.text+0x6fa)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x7aa)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x872)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.o：在函数‘UVAJudger::login()’中：
+UVAJudger.cpp:(.text+0x95c)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.cpp:(.text+0x97e)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.cpp:(.text+0xb07)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.o：在函数‘UVAJudger::submit(Bott*)’中：
+UVAJudger.cpp:(.text+0xeb6)：对‘curl_formadd’未定义的引用
+UVAJudger.cpp:(.text+0xf16)：对‘curl_formadd’未定义的引用
+UVAJudger.cpp:(.text+0xf76)：对‘curl_formadd’未定义的引用
+UVAJudger.cpp:(.text+0xfb1)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.cpp:(.text+0xfcf)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.cpp:(.text+0xfe7)：对‘curl_formfree’未定义的引用
+UVAJudger.o：在函数‘UVAJudger::getStatus(Bott*)’中：
+UVAJudger.cpp:(.text+0x1295)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.cpp:(.text+0x13bd)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVAJudger.cpp:(.text+0x13ff)：对‘re2::RE2::PartialMatch’未定义的引用
+UVAJudger.cpp:(.text+0x1430)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x14f6)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVAJudger.cpp:(.text+0x1536)：对‘re2::RE2::PartialMatch’未定义的引用
+UVAJudger.cpp:(.text+0x154f)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x16f8)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVAJudger.cpp:(.text+0x174e)：对‘re2::RE2::PartialMatch’未定义的引用
+UVAJudger.cpp:(.text+0x176b)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x1b6d)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x1bc5)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x1c54)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.o：在函数‘UVAJudger::getCEinfo(Bott*)’中：
+UVAJudger.cpp:(.text+0x1e7a)：对‘curl_easy_setopt’未定义的引用
+UVAJudger.cpp:(.text+0x1f28)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVAJudger.cpp:(.text+0x1f5e)：对‘re2::RE2::PartialMatch’未定义的引用
+UVAJudger.cpp:(.text+0x1f77)：对‘re2::RE2::~RE2()’未定义的引用
+UVAJudger.cpp:(.text+0x2089)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.o：在函数‘UVALiveJudger::getLoginHiddenParams()’中：
+UVALiveJudger.cpp:(.text+0x3b4)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.cpp:(.text+0x444)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVALiveJudger.cpp:(.text+0x47a)：对‘re2::RE2::PartialMatch’未定义的引用
+UVALiveJudger.cpp:(.text+0x493)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x6bd)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVALiveJudger.cpp:(.text+0x6e4)：对‘re2::RE2::FindAndConsume’未定义的引用
+UVALiveJudger.cpp:(.text+0x6fa)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x7aa)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x872)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.o：在函数‘UVALiveJudger::login()’中：
+UVALiveJudger.cpp:(.text+0x95c)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.cpp:(.text+0x97e)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.cpp:(.text+0xb07)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.o：在函数‘UVALiveJudger::submit(Bott*)’中：
+UVALiveJudger.cpp:(.text+0xeb6)：对‘curl_formadd’未定义的引用
+UVALiveJudger.cpp:(.text+0xf16)：对‘curl_formadd’未定义的引用
+UVALiveJudger.cpp:(.text+0xf76)：对‘curl_formadd’未定义的引用
+UVALiveJudger.cpp:(.text+0xfb1)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.cpp:(.text+0xfcf)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.cpp:(.text+0xfe7)：对‘curl_formfree’未定义的引用
+UVALiveJudger.o：在函数‘UVALiveJudger::getStatus(Bott*)’中：
+UVALiveJudger.cpp:(.text+0x1295)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.cpp:(.text+0x13bd)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVALiveJudger.cpp:(.text+0x13ff)：对‘re2::RE2::PartialMatch’未定义的引用
+UVALiveJudger.cpp:(.text+0x1430)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x14f6)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVALiveJudger.cpp:(.text+0x1536)：对‘re2::RE2::PartialMatch’未定义的引用
+UVALiveJudger.cpp:(.text+0x154f)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x16f8)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVALiveJudger.cpp:(.text+0x174e)：对‘re2::RE2::PartialMatch’未定义的引用
+UVALiveJudger.cpp:(.text+0x176b)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x1b6d)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x1bc5)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x1c54)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.o：在函数‘UVALiveJudger::getCEinfo(Bott*)’中：
+UVALiveJudger.cpp:(.text+0x1e7a)：对‘curl_easy_setopt’未定义的引用
+UVALiveJudger.cpp:(.text+0x1f28)：对‘re2::RE2::RE2(char const*)’未定义的引用
+UVALiveJudger.cpp:(.text+0x1f5e)：对‘re2::RE2::PartialMatch’未定义的引用
+UVALiveJudger.cpp:(.text+0x1f77)：对‘re2::RE2::~RE2()’未定义的引用
+UVALiveJudger.cpp:(.text+0x2089)：对‘re2::RE2::~RE2()’未定义的引用
+VirtualJudger.o：在函数‘VirtualJudger::prepareCurl()’中：
+VirtualJudger.cpp:(.text+0x21f5)：对‘curl_easy_init’未定义的引用
+VirtualJudger.cpp:(.text+0x229d)：对‘curl_easy_setopt’未定义的引用
+VirtualJudger.cpp:(.text+0x22c6)：对‘curl_easy_setopt’未定义的引用
+VirtualJudger.cpp:(.text+0x22e5)：对‘curl_easy_setopt’未定义的引用
+VirtualJudger.cpp:(.text+0x2304)：对‘curl_easy_setopt’未定义的引用
+VirtualJudger.cpp:(.text+0x2323)：对‘curl_easy_setopt’未定义的引用
+VirtualJudger.o:VirtualJudger.cpp:(.text+0x2350): more undefined references to `curl_easy_setopt' follow
+VirtualJudger.o：在函数‘VirtualJudger::performCurl()’中：
+VirtualJudger.cpp:(.text+0x2486)：对‘curl_easy_perform’未定义的引用
+VirtualJudger.cpp:(.text+0x24ba)：对‘curl_easy_strerror’未定义的引用
+VirtualJudger.cpp:(.text+0x255e)：对‘curl_easy_getinfo’未定义的引用
+VirtualJudger.cpp:(.text+0x256e)：对‘curl_easy_cleanup’未定义的引用
+vjudge.o：在函数‘main’中：
+vjudge.cpp:(.text+0x27b)：对‘curl_global_init’未定义的引用
+vjudge.cpp:(.text+0x2cc)：对‘pthread_create’未定义的引用
+vjudge.cpp:(.text+0x2d8)：对‘pthread_detach’未定义的引用
+WHUJudger.o：在函数‘WHUJudger::getSeed()’中：
+WHUJudger.cpp:(.text+0x1c7b)：对‘curl_easy_setopt’未定义的引用
+WHUJudger.cpp:(.text+0x1cb2)：对‘curl_easy_setopt’未定义的引用
+WHUJudger.cpp:(.text+0x1cd1)：对‘curl_easy_setopt’未定义的引用
+WHUJudger.cpp:(.text+0x1cf0)：对‘curl_easy_setopt’未定义的引用
+WHUJudger.o：在函数‘WHUJudger::login()’中：
+WHUJudger.cpp:(.text+0x1f19)：对‘curl_easy_setopt’未定义的引用
+WHUJudger.o:WHUJudger.cpp:(.text+0x1f3b): more undefined references to `curl_easy_setopt' follow
+WHUJudger.o：在函数‘WHUJudger::getStatus(Bott*)’中：
+WHUJudger.cpp:(.text+0x2c0d)：对‘re2::RE2::RE2(char const*)’未定义的引用
+WHUJudger.cpp:(.text+0x2c43)：对‘re2::RE2::PartialMatch’未定义的引用
+WHUJudger.cpp:(.text+0x2c5c)：对‘re2::RE2::~RE2()’未定义的引用
+WHUJudger.cpp:(.text+0x2d1f)：对‘re2::RE2::RE2(char const*)’未定义的引用
+WHUJudger.cpp:(.text+0x2d5f)：对‘re2::RE2::PartialMatch’未定义的引用
+WHUJudger.cpp:(.text+0x2d78)：对‘re2::RE2::~RE2()’未定义的引用
+WHUJudger.cpp:(.text+0x2f78)：对‘re2::RE2::RE2(char const*)’未定义的引用
+WHUJudger.cpp:(.text+0x2fc2)：对‘re2::RE2::PartialMatch’未定义的引用
+WHUJudger.cpp:(.text+0x2fdb)：对‘re2::RE2::~RE2()’未定义的引用
+WHUJudger.cpp:(.text+0x343f)：对‘re2::RE2::~RE2()’未定义的引用
+WHUJudger.cpp:(.text+0x348c)：对‘re2::RE2::~RE2()’未定义的引用
+WHUJudger.cpp:(.text+0x3546)：对‘re2::RE2::~RE2()’未定义的引用
+WHUJudger.o：在函数‘WHUJudger::getCEinfo(Bott*)’中：
+WHUJudger.cpp:(.text+0x3754)：对‘curl_easy_setopt’未定义的引用
+WHUJudger.cpp:(.text+0x3802)：对‘re2::RE2::RE2(char const*)’未定义的引用
+WHUJudger.cpp:(.text+0x3838)：对‘re2::RE2::PartialMatch’未定义的引用
+WHUJudger.cpp:(.text+0x3851)：对‘re2::RE2::~RE2()’未定义的引用
+WHUJudger.cpp:(.text+0x3963)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.o：在函数‘ZJUJudger::login()’中：
+ZJUJudger.cpp:(.text+0x544)：对‘curl_easy_setopt’未定义的引用
+ZJUJudger.cpp:(.text+0x656)：对‘curl_easy_setopt’未定义的引用
+ZJUJudger.o：在函数‘ZJUJudger::submit(Bott*)’中：
+ZJUJudger.cpp:(.text+0x916)：对‘curl_easy_setopt’未定义的引用
+ZJUJudger.cpp:(.text+0xb05)：对‘curl_easy_setopt’未定义的引用
+ZJUJudger.cpp:(.text+0xbc4)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ZJUJudger.cpp:(.text+0xbfa)：对‘re2::RE2::PartialMatch’未定义的引用
+ZJUJudger.cpp:(.text+0xc13)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0xe70)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.o：在函数‘ZJUJudger::getStatus(Bott*)’中：
+ZJUJudger.cpp:(.text+0x108b)：对‘curl_easy_setopt’未定义的引用
+ZJUJudger.cpp:(.text+0x1193)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ZJUJudger.cpp:(.text+0x11c9)：对‘re2::RE2::PartialMatch’未定义的引用
+ZJUJudger.cpp:(.text+0x11e2)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0x121d)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ZJUJudger.cpp:(.text+0x1253)：对‘re2::RE2::PartialMatch’未定义的引用
+ZJUJudger.cpp:(.text+0x126c)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0x1453)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ZJUJudger.cpp:(.text+0x1493)：对‘re2::RE2::PartialMatch’未定义的引用
+ZJUJudger.cpp:(.text+0x14ac)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0x16fa)：对‘re2::RE2::RE2(char const*)’未定义的引用
+ZJUJudger.cpp:(.text+0x1730)：对‘re2::RE2::PartialMatch’未定义的引用
+ZJUJudger.cpp:(.text+0x1749)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0x198a)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0x19a1)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0x1a5b)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.cpp:(.text+0x1b36)：对‘re2::RE2::~RE2()’未定义的引用
+ZJUJudger.o：在函数‘ZJUJudger::getCEinfo(Bott*)’中：
+ZJUJudger.cpp:(.text+0x1c3c)：对‘curl_easy_setopt’未定义的引用
+collect2: error: ld returned 1 exit status

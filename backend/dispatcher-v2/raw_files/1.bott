@@ -1,0 +1,19 @@
+<type> 2
+__SOURCE-CODE-BEGIN-LABLE__
+#include <stdio.h>
+int main(void)
+{
+        printf("a\n");
+        return 0;
+}
+__SOURCE-CODE-END-LABLE__
+<runid> 1
+<language> 1
+<pid> 1
+<testcases> 1
+<time_limit> 1000
+<case_limit> 1000
+<memory_limit> 65536
+<special> 0
+<vname> BNU
+<vid> 1
