@@ -42,7 +42,7 @@ $(document).ready(function(){
   $.get("external/contests.json",function(data) {
 
     data=eval(data);
-    //var target=$("#contestlist tbody");
+    var target=$("#contestlist tbody");
     for (var i=0;i<data.length;i++) {
       $("#contestlist").dataTable().fnAddData( [
         data[i].oj,
@@ -51,7 +51,7 @@ $(document).ready(function(){
         data[i].week,
         (data[i].access==""?"Public":data[i].access) ]
       );
-      //$(target).append("<tr>"+"<td>"+data[i].oj+"</td>"+"<td><a href='"+data[i].url+"' target='_blank'>"+data[i].name+"</a></td>"+"<td>"+data[i].start_time+"</td>"+"<td>"+data[i].week+"</td>"+"<td>"+(data[i].access==""?"Public":data[i].access)+"</td>"+"</tr>")
+      $(target).append("<tr>"+"<td>"+data[i].oj+"</td>"+"<td><a href='"+data[i].url+"' target='_blank'>"+data[i].name+"</a></td>"+"<td>"+data[i].start_time+"</td>"+"<td>"+data[i].week+"</td>"+"<td>"+(data[i].access==""?"Public":data[i].access)+"</td>"+"</tr>")
     }
     $("#contestlist_processing").hide();
 
