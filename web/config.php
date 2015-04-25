@@ -3,7 +3,7 @@
 $config["database"]["type"]                     =   "mysql";
 $config["database"]["host"]                     =   "127.0.0.1";
 $config["database"]["username"]                 =   "root";
-$config["database"]["password"]                 =   "yinhua..228";
+$config["database"]["password"]                 =   "1234";
 $config["database"]["table"]                    =   "bnuoj";
 
 //limitations
@@ -58,15 +58,15 @@ $config["status"]["max_refresh_times"]          =   5;
 
 
 //other
-$config["OJcode"]                               =   "BNU";
-$config["base_url"]                             =   "http://localhost/bnuoj/";
-$config["base_path"]                            =   "/bnuoj";
-$config["base_local_path"]                      =   "/var/www/html/bnuoj/";
+$config["OJcode"]                               =   "ZZU";
+$config["base_url"]                             =   "http://localhost/ZZUOJ-BASEON-BNUOJ-master/";
+$config["base_path"]                            =   "/web";
+$config["base_local_path"]                      =   "/var/www/html/ZZUOJ-BASEON-BNUOJ-master/";
 $config["local_timezone"]                       =   "Asia/Shanghai";
 $config["salt_problem_in_contest"]              =   "[-,-]";
 $config["database_debug"]                       =   false;
 $config["cookie_prefix"]                        =   "bnuoj_v3_";
-$config["default_style"]                        =   "cerulean";
+$config["default_style"]                        =   "spacelab";
 
 $config["use_latex_render"]                     =   false;
 
