@@ -100,10 +100,8 @@ if (sizeof($scheduled_vcontest)>0) {
 ?>
             <h3>Todo list</h3>
             <ol>
-              <li>Virtual Judge on many other OJs</li>
-              <li>Class/Interactive Module</li>
-              <li>AI Battle Module</li>
-              <li>SNS link</li>
+              <li>修改网页标签栏的图标为郑州大学<br/>ACM的图标（acm.zzu.edu.cn上有）</li>
+              <li>实现搜集最近比赛功能</li>
             </ol>
           </div>
         </div>
